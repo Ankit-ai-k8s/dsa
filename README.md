@@ -23,6 +23,7 @@ DSA
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ankit-ai-k8s/dsa/tree/master/0412-fizz-buzz) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Ankit-ai-k8s/dsa/tree/master/2525-categorize-box-according-to-criteria) |
 ## String
 |  |
 | ------- |
