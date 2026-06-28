@@ -28,6 +28,7 @@ DSA
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ankit-ai-k8s/dsa/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/Ankit-ai-k8s/dsa/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
