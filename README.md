@@ -33,4 +33,12 @@ DSA
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ankit-ai-k8s/dsa/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ankit-ai-k8s/dsa/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ankit-ai-k8s/dsa/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
