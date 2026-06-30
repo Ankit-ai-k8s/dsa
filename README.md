@@ -6,10 +6,12 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -41,4 +43,8 @@ DSA
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ankit-ai-k8s/dsa/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
