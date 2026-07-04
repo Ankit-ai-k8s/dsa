@@ -7,17 +7,17 @@
  * }
  */
 func inorderTraversal(root *TreeNode) []int {
-	op := &[]int{}
-	dfs(root, op)
-	return *op
+	return dfs(root, []int{})
 }
 
-func dfs(root *TreeNode, op *[]int) {
-    if root == nil {
-		return
+func dfs(root *TreeNode, op []int) []int {
+	if root == nil {
+		return op
 	}
 
-    dfs(root.Left, op)
-    *op = append(*op, root.Val)
-    dfs(root.Right, op)
+	op = dfs(root.Left, op)
+	op = append(op, root.Val)
+	op = dfs(root.Right, op)
+
+	return op
 }
