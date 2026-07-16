@@ -8,6 +8,7 @@ DSA
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-ai-k8s/dsa/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ankit-ai-k8s/dsa/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit-ai-k8s/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -15,6 +16,7 @@ DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ankit-ai-k8s/dsa/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit-ai-k8s/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -117,4 +119,8 @@ DSA
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit-ai-k8s/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
