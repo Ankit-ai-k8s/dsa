@@ -42,6 +42,7 @@ DSA
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-ai-k8s/dsa/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Ankit-ai-k8s/dsa/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ankit-ai-k8s/dsa/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Ankit-ai-k8s/dsa/tree/master/0771-jewels-and-stones) |
@@ -79,6 +80,7 @@ DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit-ai-k8s/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
