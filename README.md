@@ -46,6 +46,7 @@ DSA
 | [0344-reverse-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ankit-ai-k8s/dsa/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/Ankit-ai-k8s/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Ankit-ai-k8s/dsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Ankit-ai-k8s/dsa/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
@@ -83,6 +84,7 @@ DSA
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ankit-ai-k8s/dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Ankit-ai-k8s/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit-ai-k8s/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -127,4 +129,8 @@ DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-ai-k8s/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Ankit-ai-k8s/dsa/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
