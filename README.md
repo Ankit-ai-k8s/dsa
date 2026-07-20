@@ -7,6 +7,7 @@ DSA
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-ai-k8s/dsa/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ankit-ai-k8s/dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-ai-k8s/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ DSA
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ankit-ai-k8s/dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +84,7 @@ DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Ankit-ai-k8s/dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit-ai-k8s/dsa/tree/master/0680-valid-palindrome-ii) |
