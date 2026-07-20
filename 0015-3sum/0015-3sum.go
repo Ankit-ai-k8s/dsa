@@ -1,6 +1,5 @@
 func threeSum(nums []int) [][]int {
 	slices.Sort(nums)
-	fmt.Println(nums)
 	n := len(nums)
 	res := [][]int{}
 	for m := 0; m < n-2; m++ {
@@ -13,7 +12,6 @@ func threeSum(nums []int) [][]int {
 			sum := nums[start] + nums[m] + nums[end]
 			if sum == 0 {
 				res = append(res, []int{nums[start], nums[m], nums[end]})
-				fmt.Println(m, start, end)
 				for start < n-1 && nums[start] == nums[start+1] {
 					start++
 				}
