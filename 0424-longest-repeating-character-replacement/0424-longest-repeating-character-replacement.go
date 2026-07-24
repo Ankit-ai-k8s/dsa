@@ -1,19 +1,19 @@
 func characterReplacement(s string, k int) int {
-	m := map[string]int{}
+    m:= [26]int{}
 	start := 0
 	end := 0
 	res := 0
 	mx := 0
 	for end < len(s) {
-		ch := string(s[end])
-		m[ch]++
-		mx = max(m[ch], mx)
+		ch := s[end]
+		m[ch - 'A']++
+		mx = max(m[ch - 'A'], mx)
 		for ((end - start + 1) - mx) > k {
-			chs := string(s[start])
-			m[chs]--
+			chs := s[start]
+			m[chs - 'A']--
 			start++
 		}
-		res = end - start + 1
+		res = max(res, end - start + 1)
 		end++
 	}
 
