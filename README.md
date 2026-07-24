@@ -22,11 +22,13 @@ DSA
 | [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ankit-ai-k8s/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Ankit-ai-k8s/dsa/tree/master/0771-jewels-and-stones) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ankit-ai-k8s/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
@@ -48,6 +50,7 @@ DSA
 | [0344-reverse-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ankit-ai-k8s/dsa/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ankit-ai-k8s/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit-ai-k8s/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Ankit-ai-k8s/dsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Ankit-ai-k8s/dsa/tree/master/1108-defanging-an-ip-address) |
