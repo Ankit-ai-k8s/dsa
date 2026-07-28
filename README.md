@@ -11,6 +11,7 @@ DSA
 | [0015-3sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ankit-ai-k8s/dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-ai-k8s/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -30,6 +31,7 @@ DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-ai-k8s/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit-ai-k8s/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
@@ -145,4 +147,12 @@ DSA
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankit-ai-k8s/dsa/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit-ai-k8s/dsa/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
