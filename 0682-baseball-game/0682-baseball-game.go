@@ -1,7 +1,7 @@
 func calPoints(operations []string) int {
 	st := []int{}
 
-	for _,op := range operations {
+	for _, op := range operations {
 
 		nm, err := strconv.Atoi(op)
 
@@ -11,8 +11,8 @@ func calPoints(operations []string) int {
 			if op == "C" {
 				pop(&st)
 			} else if op == "+" {
-				n2,_ := pop(&st)
-				n1,_ := pop(&st)
+				n2, _ := pop(&st)
+				n1, _ := pop(&st)
 				sm := n1 + n2
 				push(&st, n1)
 				push(&st, n2)
@@ -22,15 +22,12 @@ func calPoints(operations []string) int {
 			}
 		}
 	}
+	res := 0
+	for _, nm := range st {
+		res += nm
+	}
 
-    // fmt.Println(st)
-
-    res:=0
-    for _,nm := range st {
-        res += nm
-    }
-
-    return res
+	return res
 }
 
 func push(st *[]int, ele int) {
