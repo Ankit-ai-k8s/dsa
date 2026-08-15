@@ -13,6 +13,7 @@ DSA
 | [0128-longest-consecutive-sequence](https://github.com/Ankit-ai-k8s/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ankit-ai-k8s/dsa/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/Ankit-ai-k8s/dsa/tree/master/0682-baseball-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -33,6 +34,7 @@ DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit-ai-k8s/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankit-ai-k8s/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankit-ai-k8s/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
@@ -87,6 +89,7 @@ DSA
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankit-ai-k8s/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -132,6 +135,7 @@ DSA
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit-ai-k8s/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -158,4 +162,12 @@ DSA
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0209-minimum-size-subarray-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ankit-ai-k8s/dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
